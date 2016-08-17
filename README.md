@@ -1,5 +1,6 @@
 # ST7567-driver
-A driver that implements functions to write characters and strings on monochromatic LCD displays with the controller ST7567.
+A driver that implements functions to write characters and strings on monochromatic LCD displays 128x32 with the controller ST7567.
+
 author: felipeghleite (email: felipeghleite@gmail.com)
 
 The A0 pin is connected to GPIO_DEV0 PIN16. This pin is used to select if the data sent on the bus is either data or commands.
